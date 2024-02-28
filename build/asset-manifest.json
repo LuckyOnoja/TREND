@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TV-TREND/static/css/main.ac7c6f6f.css",
+    "main.js": "/TV-TREND/static/js/main.e6384780.js",
+    "index.html": "/TV-TREND/index.html",
+    "main.ac7c6f6f.css.map": "/TV-TREND/static/css/main.ac7c6f6f.css.map",
+    "main.e6384780.js.map": "/TV-TREND/static/js/main.e6384780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7c6f6f.css",
+    "static/js/main.e6384780.js"
+  ]
+}
